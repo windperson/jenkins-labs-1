@@ -1,0 +1,10 @@
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

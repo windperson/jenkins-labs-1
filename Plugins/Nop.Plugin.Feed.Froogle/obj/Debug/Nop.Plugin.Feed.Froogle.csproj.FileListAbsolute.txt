@@ -1,0 +1,10 @@
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

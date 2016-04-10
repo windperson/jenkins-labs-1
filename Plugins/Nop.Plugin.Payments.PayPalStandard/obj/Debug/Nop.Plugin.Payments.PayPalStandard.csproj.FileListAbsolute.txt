@@ -1,0 +1,10 @@
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

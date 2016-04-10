@@ -1,0 +1,9 @@
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Views\DiscountRulesHadSpentAmount\Configure.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Description.txt
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\web.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\logo.jpg
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb

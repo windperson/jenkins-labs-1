@@ -1,0 +1,10 @@
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+E:\repo\jenkins-labs-1\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+E:\repo\jenkins-labs-1\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
